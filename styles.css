@@ -1,0 +1,37 @@
+number {
+    min: 1;
+    max: 12;
+  }
+  
+  p {
+    font-size: 26;
+    color: #e02df4;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .survey-form {
+   margin: 10px;
+   color: #ff3355;
+   font-size: 90;
+  }
+  
+  .radio {
+  margin: 1000px;
+  }
+  
+  h1 {
+    font-size: 50;
+    color: #a400d2;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  #survey-form {
+    margin: 20px 20px 50px 20px;
+  }
+  
+  body {
+    background-image: url(https://www.zohowebstatic.com/sites/zweb/images/campaigns/zc-survey-template-bg.png)
+  }
